@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "target": "ES2015",
+        "allowJs": true,
+        "esModuleInterop": true,
+    },
+    "include": ["./src/**/*"]
+}
